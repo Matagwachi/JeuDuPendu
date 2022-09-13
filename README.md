@@ -1,2 +1,2 @@
 # JeuDuPendu
-Un simple jeu du pendu
+Un simple jeu du pendu en python
